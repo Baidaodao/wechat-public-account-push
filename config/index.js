@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oFtXH6EGwGGVt2CkSxQ2ksDYS3F0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "4JJZJIrBYyBSD_2kk2zOXMal2KDIRILAWWjOl9n5r-k",
+      useTemplateId: "2L5t5eSlcRHSMSR16G6DRpiGYcUGHW6g-N_6tCek9Fg",
       // 所在省份
       province: "湖北",
       // 所在城市
@@ -94,42 +94,6 @@ export const config = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
     // 你可以不断按格式往下增加
     // ...
   ],
@@ -139,7 +103,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "4JJZJIrBYyBSD_2kk2zOXMal2KDIRILAWWjOl9n5r-k",
+  CALLBACK_TEMPLATE_ID: "2L5t5eSlcRHSMSR16G6DRpiGYcUGHW6g-N_6tCek9Fg",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
