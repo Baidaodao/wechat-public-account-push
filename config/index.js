@@ -91,6 +91,29 @@ export const config = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
+    {
+      name: "自己",
+      id: "oFtXH6EGwGGVt2CkSxQ2ksDYS3F0",
+      useTemplateId: "v7KA92j5ddGKR3UnLeR_-CP33A-ZEeDH1TLhvLmaAYU",
+      province: "四川",
+      city: "成都",
+      horoscopeDate: '05-25',
+      horoscopeDateType: '今日',
+      openUrl: "",
+      festivals: [
+        // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
+        {"type": "*生日", "name": "乖宝贝", "year": "2003", "date": "10-22"},
+        {"type": "节日", "name": "恋爱纪念日", "year": "2022", "date": "07-31"},
+      ],
+      customizedDateList: [
+        // 在一起的日子
+        {"keyword": "love_day", date: "2022-07-31"},
+        // 结婚纪念日
+        {"keyword": "marry_day", date: "2025-10-10"},
+        // 退伍日
+        {"keyword": "ex_day", date: "2022-09-10"},
+      ]
+    },
     // 你可以不断按格式往下增加
     // ...
   ],
